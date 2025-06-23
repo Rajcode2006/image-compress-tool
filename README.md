@@ -22,9 +22,8 @@ A powerful, easy-to-use web-based image tool that allows you to **resize**, **co
 
 ## 🚀 Live Demo
 
-> 🔗 [Click Here to Try It Online](https://yourusername.github.io/image-resizer-compressor)
+> 🔗 [Click Here to Try It Online](https://rajcode2006.github.io/image-compress-tool/)
 
-_(Replace the link above with your actual GitHub Pages URL)_
 
 ---
 
@@ -34,7 +33,6 @@ _(Replace the link above with your actual GitHub Pages URL)_
 |-------------------|------------|------------|
 | ![resize](assets/screens/resize.png) | ![crop](assets/screens/crop.png) | ![dark](assets/screens/dark.png) |
 
-_(Optional: Add screenshots inside an `assets/screens` folder)_
 
 ---
 
