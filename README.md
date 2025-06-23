@@ -31,7 +31,10 @@ A powerful, easy-to-use web-based image tool that allows you to **resize**, **co
 
 | Resize & Compress | Crop Modal | Dark Theme |
 |-------------------|------------|------------|
-| ![resize](assets/screens/resize.png) | ![crop](assets/screens/crop.png) | ![dark](assets/screens/dark.png) |
+| ![resize](![Screenshot 2025-06-23 140720](https://github.com/user-attachments/assets/15d729df-3326-4283-8305-a95601cb1f45)
+) | ![crop](![IMG_20240703_153103_745](https://github.com/user-attachments/assets/fc64a3db-fc84-4cf9-9eb5-31a05457c661)
+) | ![dark](![Screenshot 2025-06-23 140518](https://github.com/user-attachments/assets/daf2be38-231a-4cbc-8599-230cfa3fdd24)
+) |
 
 
 ---
